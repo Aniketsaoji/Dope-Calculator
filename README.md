@@ -1,3 +1,3 @@
 Dope-Calculator
 ===============
- Infix, Postfix and Prefix Calculator. Because I can.
+ A Data Structures homework assignment which opens a calculator that supports infix, prefix and postfix notation 
